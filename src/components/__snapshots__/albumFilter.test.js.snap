@@ -1,0 +1,93 @@
+exports[`test AlbumFilter change when page change 1`] = `
+<div>
+  <nav>
+    <ul
+      className="pagination pagination-sm col-md-4 col-md-push-4">
+      <li
+        className="btn-first-page  disabled">
+        <a
+          onClick={[Function]}>
+          First
+        </a>
+      </li>
+      <li
+        className="btn-prev-page  disabled">
+        <a
+          onClick={[Function]}>
+          «
+        </a>
+      </li>
+      <li
+        className="btn-numbered-page  active">
+        <a
+          onClick={[Function]}>
+          1
+        </a>
+      </li>
+      <li
+        className="btn-numbered-page ">
+        <a
+          onClick={[Function]}>
+          2
+        </a>
+      </li>
+      <li
+        className="btn-numbered-page ">
+        <a
+          onClick={[Function]}>
+          3
+        </a>
+      </li>
+      <li
+        className="btn-numbered-page ">
+        <a
+          onClick={[Function]}>
+          4
+        </a>
+      </li>
+      <li
+        className="btn-numbered-page ">
+        <a
+          onClick={[Function]}>
+          5
+        </a>
+      </li>
+      <li
+        className="btn-numbered-page ">
+        <a
+          onClick={[Function]}>
+          6
+        </a>
+      </li>
+      <li
+        className="btn-numbered-page ">
+        <a
+          onClick={[Function]}>
+          7
+        </a>
+      </li>
+      <li
+        className="btn-next-more ">
+        <a
+          onClick={[Function]}>
+          ...
+        </a>
+      </li>
+      <li
+        className="btn-next-page ">
+        <a
+          onClick={[Function]}>
+          »
+        </a>
+      </li>
+      <li
+        className="btn-last-page ">
+        <a
+          onClick={[Function]}>
+          Last
+        </a>
+      </li>
+    </ul>
+  </nav>
+</div>
+`;

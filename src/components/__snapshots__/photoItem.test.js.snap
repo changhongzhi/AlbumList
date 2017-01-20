@@ -1,0 +1,32 @@
+exports[`test render default not show image 1`] = `
+<div>
+  <h2>
+    photo title
+  </h2>
+  <img
+    alt="photo title"
+    src="thumbnailUrl" />
+</div>
+`;
+
+exports[`test render when show image 1`] = `
+<div>
+  <h2>
+    photo title
+  </h2>
+  <img
+    alt="photo title"
+    src="url" />
+</div>
+`;
+
+exports[`test should be able to update position  1`] = `
+<div>
+  <h2>
+    photo title
+  </h2>
+  <img
+    alt="photo title"
+    src="thumbnailUrl" />
+</div>
+`;

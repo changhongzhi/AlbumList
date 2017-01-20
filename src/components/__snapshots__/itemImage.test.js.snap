@@ -1,0 +1,11 @@
+exports[`test Show thumburl img when not show image 1`] = `
+<img
+  alt={undefined}
+  src="thumbnail image url" />
+`;
+
+exports[`test Show url img when show image 1`] = `
+<img
+  alt={undefined}
+  src="image url" />
+`;
